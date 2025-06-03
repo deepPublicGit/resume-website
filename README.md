@@ -21,12 +21,6 @@ Resume Chat is an interactive resume viewing application built with Spring Boot 
 - Maven
 - PDF Viewer Component
 
-## Prerequisites
-
-- Java Development Kit (JDK) 24 or later
-- Maven 3.6 or later
-- Web browser (Chrome, Firefox, Safari, or Edge)
-
 ## Installation and Setup
 
 1. Clone the repository:
