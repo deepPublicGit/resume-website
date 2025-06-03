@@ -72,7 +72,7 @@ Resume Chat is an interactive resume viewing application built with Spring Boot 
 - [ ] Integrate with LLM using Spring AI.
 - [ ] Enable 'Enter to Send' message in chat.
 - [ ] Make the site live and publicly accessible.
-- [ ] Gather and Display Site Metrics
+- [ ] Gather and Display Site Metrics.
 
 ### Project Structure
 
