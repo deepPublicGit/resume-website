@@ -92,7 +92,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-If you encounter any issues or have questions, please file an issue on the GitHub repository.
