@@ -8,10 +8,10 @@ Resume Chat is an interactive resume viewing application built with Spring Boot 
 
 ## Features
 
-- **PDF Resume Viewer**: View resumes in PDF format with a clean, responsive interface
-- **Chatbot**: Ask questions about the resume and get instant responses
-- **Responsive Design**: Works on desktop and mobile devices
-- **Easy Navigation**: Simple and intuitive user interface
+- **PDF Resume Viewer**: View resumes in PDF format with a clean, responsive interface.
+- **Chatbot**: Ask questions about the resume and get instant responses.
+- **Responsive Design**: Works on desktop and mobile devices.
+- **Easy Navigation**: Simple and intuitive user interface.
 
 ## Technologies Used
 
